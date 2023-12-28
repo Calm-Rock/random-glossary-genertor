@@ -1,1 +1,1 @@
-# random-glossary-genertor
+# random-glossary-generator
