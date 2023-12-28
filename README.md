@@ -1,0 +1,1 @@
+# random-glossary-genertor
